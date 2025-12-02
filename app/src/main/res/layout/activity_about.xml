@@ -103,7 +103,7 @@
                 android:id="@+id/tvGitHubUrl"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="https://github.com/yourusername/vehicle-loan-calculator"
+                android:text="https://github.com/AgiruL/vehicle-loan-calculator.git"
                 android:textColor="#2196F3"
                 android:textSize="14sp"
                 android:gravity="center"
