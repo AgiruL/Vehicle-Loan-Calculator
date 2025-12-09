@@ -25,7 +25,7 @@
             android:textSize="24sp"
             android:textStyle="bold"
             android:gravity="center"
-            android:textColor="@color/purple_700"
+            android:textColor="@color/black"
             android:layout_marginBottom="30dp" />
 
         <!-- Author Information -->
@@ -51,7 +51,7 @@
                 android:id="@+id/tvAuthorName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Name: [Your Name]"
+                android:text="Name: AMIRUL HAZIQ BIN BADRUL HISHAM"
                 android:textSize="16sp"
                 android:layout_marginBottom="8dp" />
 
@@ -59,7 +59,7 @@
                 android:id="@+id/tvMatricNo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Matric No: [Your Matric Number]"
+                android:text="Matric No: 2023657278"
                 android:textSize="16sp"
                 android:layout_marginBottom="8dp" />
 
@@ -67,7 +67,7 @@
                 android:id="@+id/tvCourse"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Course: [Your Course]"
+                android:text="Course: CDCS251"
                 android:textSize="16sp"
                 android:layout_marginBottom="30dp" />
         </LinearLayout>
