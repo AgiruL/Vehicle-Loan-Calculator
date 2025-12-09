@@ -38,7 +38,7 @@
 ## 👨‍💻 Author
 1. Name: AMIRUL HAZIQ BIN BADRUL HISHAM
 2. Matric No: 2023657278
-3. Course: 2023657278
+3. Course: CDCS251
 
 ### Git clone
 ```bash
